@@ -5,8 +5,13 @@ description: This file is an annotated version of class notes "Excitations in Ma
   in materials with temperature, bulk modulus change with T, calculation of thermal
   expansion, modeling of finite temperature systems, and statistical mechanics on
   relevant degrees of freedom with examples.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/2430ddd7555ed44599cc4a7f26d31b07_3_10_note.pdf
+file: /media/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/2430ddd7555ed44599cc4a7f26d31b07_3_10_note.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 3_10_note.pdf
 uid: 2430ddd7-555e-d445-99cc-4a7f26d31b07

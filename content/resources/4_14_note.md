@@ -5,8 +5,13 @@ description: This file is an annotated version of class notes "Free Energies and
   Monte Carlo, example of force-bias Monte Carlo, methods to obtain free energy differences,
   overlapping distribution methods, thermodynamic integration, and methods with multiple
   time scales.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/53fc28be0bc93216eef421b392a8526f_4_14_note.pdf
+file: /media/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/53fc28be0bc93216eef421b392a8526f_4_14_note.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 4_14_note.pdf
 uid: 53fc28be-0bc9-3216-eef4-21b392a8526f

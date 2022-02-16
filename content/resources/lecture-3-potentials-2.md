@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3: Potentials 2'
 uid: 15d2bec0-2e43-2bce-01a8-11e02275a633
 video_files:
   archive_url: http://www.archive.org/download/MIT3.320S2005/ocw-3.320-lec-3-08feb05-220k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/471321d7206e56218bfa68f60b9a3083_HcQ7bdBGbEs.vtt
+  video_captions_file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/471321d7206e56218bfa68f60b9a3083_HcQ7bdBGbEs.vtt
   video_thumbnail_file: https://img.youtube.com/vi/HcQ7bdBGbEs/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/ca66a9b8f28cf8f6efd926235aeb8ee7_HcQ7bdBGbEs.pdf
+  video_transcript_file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/ca66a9b8f28cf8f6efd926235aeb8ee7_HcQ7bdBGbEs.pdf
 video_metadata:
   youtube_id: HcQ7bdBGbEs
 ---
