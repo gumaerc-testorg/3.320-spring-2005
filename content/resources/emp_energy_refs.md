@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 83ce5ce5-fab0-ad39-3094-494b6c3cbef5
 resourcetype: Document
 title: emp_energy_refs.pdf
 uid: b68e14ab-2512-3a31-1928-4fa6cae57b6a
