@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: The readings section contains list of readings associated with topics
+  of emperical potentials, first principles, and molecular dynamics.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 83ce5ce5-fab0-ad39-3094-494b6c3cbef5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 General
@@ -19,7 +25,7 @@ Daw, M. S., S. M. Foiles, and M. I. Baskes. "The embedded-atom method: a review 
 
 Gibson, J. B., et al. "Dynamics of Radiation Damage." _Physical Review_ 120, no. 4 (1960): 1229-1253.
 
-References for Potential and Functional Models ([PDF]({{< baseurl >}}/resources/emp_energy_refs))
+References for Potential and Functional Models ({{% resource_link b68e14ab-2512-3a31-1928-4fa6cae57b6a "PDF" %}})
 
 First Principles
 ----------------

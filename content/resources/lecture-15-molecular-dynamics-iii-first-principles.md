@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -29,3 +30,6 @@ video_metadata:
 **Instructor:** Prof. Nicola Marzari
 
 Note: Lecture 16 was a lab session. No video is available.
+
+
+

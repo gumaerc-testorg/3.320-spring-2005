@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the input example used in the lab 3: Density
   Functional Theory II.'
-file: /media/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/02a562380e0f4ed2d2ece2fed226197c_INPUT_PW.txt
+file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/02a562380e0f4ed2d2ece2fed226197c_INPUT_PW.txt
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -14,3 +14,5 @@ resourcetype: Other
 title: INPUT_PW.txt
 uid: 02a56238-0e0f-4ed2-d2ec-e2fed226197c
 ---
+This resource contains the input example used in the lab 3: Density Functional Theory II.
+

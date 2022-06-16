@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: This section lists the lecture topics covered in the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 326279f5-140e-7323-2091-3776255108d0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
