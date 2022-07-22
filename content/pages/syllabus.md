@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: The syllabus section contains objective and organization of the course.
+  It also contains grading criteria and suggested textbook readings.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ce06b9b7-0f42-01b1-f74f-aae9e16f310a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Objective
