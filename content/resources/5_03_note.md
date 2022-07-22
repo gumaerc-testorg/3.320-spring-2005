@@ -10,6 +10,7 @@ file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -23,4 +24,3 @@ video_metadata:
   youtube_id: null
 ---
 This file is an annotated version of class notes "Accelerated Molecular Dynamics, Kinetic Monte Carlo, and Inhomogeneous Spatial Coarse Graining" and explains coarse-graining, renormalized potentials, problems of time and space, evaluation criteria and problems with dynamics in coarse-grained models, parallel replica method, temperature-accelerated dynamics (TAD), kinetic Monte Carlo, and dilute diffusion theory.
-

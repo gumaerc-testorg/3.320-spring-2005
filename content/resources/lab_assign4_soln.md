@@ -8,6 +8,7 @@ file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains four solutions for problems on common features of molecular dynamics calculations (MD), accuracy of different integrators, scalability of MD systems, fluctuation of temperature in a MD, and melting temperature of bulk Kr.
-

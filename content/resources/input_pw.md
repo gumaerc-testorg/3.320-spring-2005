@@ -6,6 +6,7 @@ file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-20
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: INPUT_PW.txt
 uid: 02a56238-0e0f-4ed2-d2ec-e2fed226197c
 ---
 This resource contains the input example used in the lab 3: Density Functional Theory II.
-

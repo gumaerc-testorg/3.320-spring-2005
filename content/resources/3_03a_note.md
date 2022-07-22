@@ -8,6 +8,7 @@ file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 This file is an annotated version of class notes "Advanced DFT: Success and Failure DFT" and explains pseudopotentials, Bloch theorem, matrix diagonalization, phonons, phonon dispersions (linear response theory), thermodynamical properties (vibrational free energy), dynamics in Al(110), and brillouin zone integrations.
-

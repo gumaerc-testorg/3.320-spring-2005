@@ -8,6 +8,7 @@ file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 This file is an annotated version of class notes "Monte Carlo Simulation II and Free Energies" and explains metropolis algorithm, Ising model, Legendre transform of energy and entropy, Monte Carlo sampling of ensemble, non-boltzmann sampling, and umbrella sampling.
-

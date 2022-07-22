@@ -5,6 +5,7 @@ file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-20
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: input_example.txt
 uid: b3c9dfc3-7134-a822-bef3-07facc7c6b1e
 ---
 This resource contains the input example used in the lab 5: Monte Carlo.
-

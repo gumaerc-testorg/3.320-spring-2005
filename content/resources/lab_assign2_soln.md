@@ -7,6 +7,7 @@ file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains solutions for problems on energy-calculation convergence issues specific to first-principles calculations (energy cutoff and k-point grid size).
-

@@ -4,6 +4,7 @@ description: ''
 file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/89b7d1eee6e298f07f6d5852269c8ecf_U5SKba2lCuw.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

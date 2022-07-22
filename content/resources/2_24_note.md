@@ -8,6 +8,7 @@ file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 This file is an annotated version of class notes "Density-Functional Theory and Density-Functional Practice" and explains Hartree-Fock equations, Kohn-Sham equations, the Thomas-Fermi approach, local density approximation, density-functional theory, and the Hohenberg-Kohn theorems.
-

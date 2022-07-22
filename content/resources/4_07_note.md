@@ -9,6 +9,7 @@ file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 This file is an annotated version of class notes "Monte Carlo Simulations: Application to Lattice Models, Sampling Errors, Metastability" and contains a short review of statistical mechanics and thermodynamics, explanation on time or (phase) space, conjugate variables, coordinates and ergodicity, metropolis algorithm, the Monte Carlo method, and simple sampling for materials, ising model, and cartographers.
-
