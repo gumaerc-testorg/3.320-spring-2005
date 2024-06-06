@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/2635b25a6acface672e589ec18c1d8ca_5_10_note.pdf
+file_size: 712627
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

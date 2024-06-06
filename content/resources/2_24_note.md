@@ -5,6 +5,7 @@ description: This file is an annotated version of class notes "Density-Functiona
   equations, the Thomas-Fermi approach, local density approximation, density-functional
   theory, and the Hohenberg-Kohn theorems.
 file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/ae37276d9e0639eeed75331ec4368cda_2_24_note.pdf
+file_size: 464051
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
