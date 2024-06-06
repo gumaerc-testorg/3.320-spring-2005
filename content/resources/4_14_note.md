@@ -6,6 +6,7 @@ description: This file is an annotated version of class notes "Free Energies and
   overlapping distribution methods, thermodynamic integration, and methods with multiple
   time scales.
 file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/53fc28be0bc93216eef421b392a8526f_4_14_note.pdf
+file_size: 752931
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

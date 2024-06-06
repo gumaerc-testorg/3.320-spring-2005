@@ -6,6 +6,7 @@ description: 'This file is an annotated version of class notes "Monte Carlo Simu
   space, conjugate variables, coordinates and ergodicity, metropolis algorithm, the
   Monte Carlo method, and simple sampling for materials, ising model, and cartographers.'
 file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/d76afd7a5c3467f476ab950dea92aa94_4_07_note.pdf
+file_size: 847412
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This file explains moldy and gulp as molecular dynamics (MD) codes, summary
   of MD, melting of Krypton, solid-liquid interface, and radial distribution function.
 file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/5cad74b58dec73c110153d7341b2ec1e_moldy_handout.pdf
+file_size: 181678
 file_type: application/pdf
 learning_resource_types:
 - Labs

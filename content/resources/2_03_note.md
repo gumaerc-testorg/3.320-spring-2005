@@ -5,6 +5,7 @@ description: 'This file is an annotated version of class note "Introduction to t
   of pair potentials: application to physical quantities, the embedding function,
   effective medium theories: the embedded atom method, and EAM: the physical concept.'
 file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/b44fe2f07f6711c37459c0bbc3bbcde8_2_03_note.pdf
+file_size: 654101
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -6,6 +6,7 @@ description: This file is an annotated version of class notes "Excitations in Ma
   expansion, modeling of finite temperature systems, and statistical mechanics on
   relevant degrees of freedom with examples.
 file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/2430ddd7555ed44599cc4a7f26d31b07_3_10_note.pdf
+file_size: 314846
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
