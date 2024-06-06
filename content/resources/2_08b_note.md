@@ -4,6 +4,7 @@ description: This file is an annotated version of class note "It's a Quantum Wor
   and explains quantum mechanics, standard model of matter, wave-particle duality,
   and time-dependent Schrodinger?s equation.
 file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/c92aed224a0b5c40b5976520ca87cf79_2_08b_note.pdf
+file_size: 2348564
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

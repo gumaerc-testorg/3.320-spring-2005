@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains the input example used in the lab 5: Monte Carlo.'
 file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/b3c9dfc37134a822bef307facc7c6b1e_input_example.txt
+file_size: 675
 file_type: text/plain
 learning_resource_types:
 - Labs

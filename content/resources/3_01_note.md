@@ -5,6 +5,7 @@ description: 'This file is an annotated version of class notes "Density-Function
   theory in practice: the total-energy pseudopotential method, pseudopotentials I,
   II, and III, Bloch theorem, plane wave expansion, and band structures.'
 file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/a699e67dd632347b4ff7c18c49c0d916_3_01_note.pdf
+file_size: 796256
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -5,6 +5,7 @@ description: This file is an annotated version of class notes "Monte Carlo Simul
   of energy and entropy, Monte Carlo sampling of ensemble, non-boltzmann sampling,
   and umbrella sampling.
 file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/052ae15a6265b42123567a56d822316e_4_12_note.pdf
+file_size: 339285
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
