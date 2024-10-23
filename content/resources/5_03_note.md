@@ -6,7 +6,7 @@ description: This file is an annotated version of class notes "Accelerated Molec
   criteria and problems with dynamics in coarse-grained models, parallel replica method,
   temperature-accelerated dynamics (TAD), kinetic Monte Carlo, and dilute diffusion
   theory.
-file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/61ce71abb981a9222049a9be2c794297_5_03_note.pdf
+file: /ol-ocw-studio-app/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/61ce71abb981a9222049a9be2c794297_5_03_note.pdf
 file_size: 1956024
 file_type: application/pdf
 learning_resource_types:

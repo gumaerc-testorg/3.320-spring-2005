@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains solutions for problems on energy-calculation convergence
   issues specific to first-principles calculations (energy cutoff and k-point grid
   size).
-file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/92d85f09e6d1bed3c2f32cef877417a7_lab_assign2_soln.pdf
+file: /ol-ocw-studio-app/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/92d85f09e6d1bed3c2f32cef877417a7_lab_assign2_soln.pdf
 file_size: 170551
 file_type: application/pdf
 learning_resource_types:
