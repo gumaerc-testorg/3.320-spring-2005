@@ -4,7 +4,7 @@ description: 'This file is an annotated version of class notes "First-Principles
   Dynamics" and explains micro-to macro-: diffusion coefficient, mean square displacements,
   velocity autocorrelation function, Green-Kubo relations, Hamiltonian dynamics, Hellmann-Feynman
   theorem, Born-Oppenheimer molecular dynamics, and equations and constant of motion.'
-file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/e49bf0975e3003df769b50a90449d8dd_3_31_note.pdf
+file: /ol-ocw-studio-app/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/e49bf0975e3003df769b50a90449d8dd_3_31_note.pdf
 file_size: 1288967
 file_type: application/pdf
 learning_resource_types:

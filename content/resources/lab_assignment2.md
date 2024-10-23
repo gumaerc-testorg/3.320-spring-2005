@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains 7 questions which based on absolute energies,
   forces, energy differences, Comparing Probs and equilibrium lattice constant and
   bulk modulus.
-file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/9313756ca81afcd3f1e27482faa38285_lab_assignment2.pdf
+file: /ol-ocw-studio-app/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/9313756ca81afcd3f1e27482faa38285_lab_assignment2.pdf
 file_size: 36390
 file_type: application/pdf
 learning_resource_types:
