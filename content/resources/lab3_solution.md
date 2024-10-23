@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains two solutions for problems on cobalt in HCP and FCC
   structures and stability of the perovskite structure.
-file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/ff051d07de8426536abf918c1f7f9a01_lab3_solution.pdf
+file: /ol-ocw-studio-app/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/ff051d07de8426536abf918c1f7f9a01_lab3_solution.pdf
 file_size: 369641
 file_type: application/pdf
 learning_resource_types:
