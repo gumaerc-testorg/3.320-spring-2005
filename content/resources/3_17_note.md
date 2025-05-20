@@ -3,7 +3,7 @@ content_type: resource
 description: This file is an annotated version of class notes "Molecular Dynamics
   I" and explains N coupled equations, conservation of the total energy, phase space
   evolution, thermodynamical averages, and the computational experiment.
-file: /ol-ocw-studio-app/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/b71a8e6b26973c3f2111333bab197f6f_3_17_note.pdf
+file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/b71a8e6b26973c3f2111333bab197f6f_3_17_note.pdf
 file_size: 254411
 file_type: application/pdf
 learning_resource_types:

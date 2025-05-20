@@ -4,7 +4,7 @@ description: 'This file is an annotated version of class notes "First Principles
   Methods: The Many-Body Problem" and explains time-dependent Schrodinger?s equation,
   stationary Schrodinger?s equation I and II, energy of a collection of atoms, Hartree
   equations, Pauli principle, and Koopmans? theorems.'
-file: /ol-ocw-studio-app/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/8199ab9fd03161cdcf237e5c4cbfce49_2_15_note.pdf
+file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/8199ab9fd03161cdcf237e5c4cbfce49_2_15_note.pdf
 file_size: 742965
 file_type: application/pdf
 learning_resource_types:
