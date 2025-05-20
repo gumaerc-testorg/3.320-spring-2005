@@ -4,7 +4,7 @@ description: 'This file is an annotated version of class notes "Applications and
   of DFT Methods" and explains spin polarization: the local spin density approximation
   (LSDA), energies of atoms, small molecules, lattice parameters in solids, bulk modulus
   in solids (in GPA), oxides, predicting structure: the energy scales, and metal hydrides.'
-file: /ol-ocw-studio-app/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/1c56726dfc6a430bbaed79c2ac460f3f_3_03b_note.pdf
+file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/1c56726dfc6a430bbaed79c2ac460f3f_3_03b_note.pdf
 file_size: 368153
 file_type: application/pdf
 learning_resource_types:

@@ -4,7 +4,7 @@ description: 'This file is an annotated version of class notes "Advanced DFT: Su
   and Failure DFT" and explains pseudopotentials, Bloch theorem, matrix diagonalization,
   phonons, phonon dispersions (linear response theory), thermodynamical properties
   (vibrational free energy), dynamics in Al(110), and brillouin zone integrations.'
-file: /ol-ocw-studio-app/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/bfdb8e9d95f759aad5ed7f3529e01600_3_03a_note.pdf
+file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/bfdb8e9d95f759aad5ed7f3529e01600_3_03a_note.pdf
 file_size: 911647
 file_type: application/pdf
 learning_resource_types:

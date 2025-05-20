@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains four problems on common features of molecular dynamics
   calculations (MD), accuracy of different integrators, scalability of MD systems,
   fluctuation of temperature in a MD, and melting temperature of bulk Kr.
-file: /ol-ocw-studio-app/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/159816d046f2f467ff88bfa3000e4f85_lab_assignment4.pdf
+file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/159816d046f2f467ff88bfa3000e4f85_lab_assignment4.pdf
 file_size: 19213
 file_type: application/pdf
 learning_resource_types:
