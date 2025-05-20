@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/9ee82682f92bb3099a95dfa313d35a03_egK3Cih11J4.srt
+file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/9ee82682f92bb3099a95dfa313d35a03_egK3Cih11J4.srt
 file_size: 110619
 file_type: application/x-subrip
 learning_resource_types: []
