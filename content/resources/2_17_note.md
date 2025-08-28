@@ -4,7 +4,7 @@ description: 'This file is an annotated version of class notes "First Principles
   Methods: Hartree-Fock and DFT" and explains matrix formulation and variational principle,
   energy of a hydrogen atom, Hartree equations, Pauli principle, Koopmans? theorems,
   density-functional theory, the Hohenberg-Kohn theorems, and Euler-Lagrange equations.'
-file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/c23285907f822f3c632029c177f916a6_2_17_note.pdf
+file: /ol-ocw-studio-app/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/c23285907f822f3c632029c177f916a6_2_17_note.pdf
 file_size: 429064
 file_type: application/pdf
 learning_resource_types:
