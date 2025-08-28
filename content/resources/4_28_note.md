@@ -4,7 +4,7 @@ description: 'This file is an annotated version of class notes "Ab-Initio Thermo
   and Structure Prediction" and explains methods with multiple time scales, coarse-graining:
   the concept, definition of the interactions, and equilibration of structure and
   chemistry.'
-file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/30d602638b9005a9f09bd90616db1c35_4_28_note.pdf
+file: /ol-ocw-studio-app/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/30d602638b9005a9f09bd90616db1c35_4_28_note.pdf
 file_size: 1467520
 file_type: application/pdf
 learning_resource_types:
