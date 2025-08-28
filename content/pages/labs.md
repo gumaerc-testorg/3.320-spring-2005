@@ -2,7 +2,7 @@
 content_type: page
 description: The labs section contains a set of assigned problems.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 4e3b32c3-b8ab-32af-dae9-bdfc1301e7fe
