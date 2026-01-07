@@ -64,7 +64,7 @@ Lab 2: Density Functional Theory I ({{% resource_link 9313756c-a81a-fcd3-f1e2-74
 {{< tdopen >}}
 
 
-[Quantum-Espresso](http://www.quantum-espresso.org/)
+{{% resource_link "8c289cd1-8adb-4bf2-8ad7-0547c248e5cb" "Quantum-Espresso" %}}
 
 Quantum-Espresso: A First-Principles Code ({{% resource_link b5179173-234e-7351-3a10-bd4dde535da0 "PDF" %}})
 
@@ -87,7 +87,7 @@ Lab 3: Density Functional Theory II ({{% resource_link a8c26f60-02bf-0b79-fe62-b
 {{< tdopen >}}
 
 
-[Quantum-Espresso](http://www.quantum-espresso.org/)
+{{% resource_link "8c289cd1-8adb-4bf2-8ad7-0547c248e5cb" "Quantum-Espresso" %}}
 
 Quantum-Espresso: A First Principles Code, Part 2 ({{% resource_link 24f633ec-df80-e676-1183-769da9bb7388 "PDF" %}})
 

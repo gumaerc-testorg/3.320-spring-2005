@@ -51,4 +51,4 @@ Thijssen, J. M. _Computational Physics_. Cambridge, UK: Cambridge University Pre
 Simulation Software
 -------------------
 
-[Quantum-Espresso](http://www.quantum-espresso.org/) is GNU Open Source quantum mechanical simulation software, used in the Labs and to create some lecture materials.
+{{% resource_link "8c289cd1-8adb-4bf2-8ad7-0547c248e5cb" "Quantum-Espresso" %}} is GNU Open Source quantum mechanical simulation software, used in the Labs and to create some lecture materials.
